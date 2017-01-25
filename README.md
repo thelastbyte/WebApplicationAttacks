@@ -1,4 +1,4 @@
-# WebApplicationAttacks
+# Web Application Attacks
 List of attacks/exploits related to modern Web Applications.
 
 ##### JSONP Injection Attacks
