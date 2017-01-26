@@ -9,3 +9,6 @@ https://www.trustwave.com/Resources/SpiderLabs-Blog/Reflected-File-Download---A-
 
 ##### SOME ( Same Origin Method Execution )
 https://security.linkedin.com/posts/2016/finding-same-origin-method-execution-vulnerabilities
+
+##### XXE &  XXE OOB
+https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf
