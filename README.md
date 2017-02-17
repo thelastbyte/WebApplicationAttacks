@@ -25,3 +25,8 @@ https://blog.skullsecurity.org/2013/padding-oracle-attacks-in-depth
 
 ##### Hash Length Extension Attacks
 https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks
+
+
+### Algorithmic Complexity Attacks
+##### Denial of Service via Algorithmic Complexity Attacks
+https://www.usenix.org/legacy/events/sec03/tech/full_papers/crosby/crosby.pdf
