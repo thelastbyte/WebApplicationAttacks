@@ -32,5 +32,5 @@ https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-lengt
 https://www.usenix.org/legacy/events/sec03/tech/full_papers/crosby/crosby.pdf
 
 ### Type Juggling 
-##### PHP TYPE JUGGLING
+##### PHP Type Juggling
 https://www.alertlogic.com/blog/writing-exploits-for-exotic-bug-classes-php-type-juggling/
